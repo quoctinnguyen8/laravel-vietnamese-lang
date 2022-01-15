@@ -1,0 +1,1 @@
+# Gói ngôn ngữ tiếng Việt cho Laravel 8.x
